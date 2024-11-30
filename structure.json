@@ -1,0 +1,6 @@
+{
+  "items": [
+    { "path": "1-design-patterns" },
+    { "path": "2-helm-packages-manager" }
+  ]
+}

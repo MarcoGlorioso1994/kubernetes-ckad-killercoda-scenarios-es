@@ -1,0 +1,8 @@
+{
+  "items": [
+    { "path": "1-basic-commands" },
+    { "path": "2-release-revision-rollback" },
+    { "path": "3-create-deploy-newchart" }
+  ]
+}
+
